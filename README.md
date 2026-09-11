@@ -38,7 +38,7 @@ Result: Hello, Temporal!
 Cloud:
 
 ```
-✅ Client connected to us-east-2.aws.api.temporal.io:7233 in namespace 'jgs-demo.sdvdw'
+✅ Client connected to us-east-2.aws.api.temporal.io:7233 in namespace '<namespace>.<account-id>'
 Result: Hello, Temporal!
 ```
 
